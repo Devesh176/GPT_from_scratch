@@ -1,4 +1,4 @@
-# my_custom_GPT
+
 ## The GPT Architecture is shown in figure below.
 ![alt text](images/GPT_architecture.png)
 
